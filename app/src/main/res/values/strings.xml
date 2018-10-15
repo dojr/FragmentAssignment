@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DJShamblinCriminalIntent</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment4">Hello blank fragment4</string>
+    <string name="hello_blank_fragment8">Hello blank fragment8</string>
+
+</resources>
